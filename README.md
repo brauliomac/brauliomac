@@ -1,9 +1,3 @@
-# Hi there 👋
-
-Passionate developer building meaningful software.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
